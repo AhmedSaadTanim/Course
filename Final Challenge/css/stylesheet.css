@@ -1,0 +1,30 @@
+:root{
+    --font-oswald: 'Oswald', sans-serif;
+    --font-montserrat: 'Montserrat', sans-serif;
+
+    --color-grayish-black: #2E323F;
+    --color-light-grayish-black : #3B4050;
+    --color-gray : #6F737F;
+    --color-white: #FFFFFF;
+    --color-gold: #A59678;
+}
+
+*, *::after, *::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.container{
+    max-width: 1200px;
+}
+
+
+@media only screen and (max-width: 700px){
+
+}
+
+@media only screen and (max-width: 1000px){
+    
+}
